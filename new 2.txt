@@ -6,3 +6,6 @@ i changed this line so i can simulate another merge conflict
 3
 4
 5
+
+i hope there are no merge conflicts
+haha too bad, there were, but i solved them. >> you can thank me later.
