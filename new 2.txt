@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 this page sucks so i removed it haha
+i changed this line so i can simulate another merge conflict
